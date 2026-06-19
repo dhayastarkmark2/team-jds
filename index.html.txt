@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beyond the Syllabus - SCE</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #121212; color: white; padding: 20px; }
+        img { max-width: 80%; border-radius: 10px; margin-bottom: 20px; }
+        .footer { margin-top: 50px; font-size: 0.8em; }
+    </style>
+</head>
+<body>
+    <h1>Beyond the Syllabus</h1>
+    <img src="916732fa-0587-4e24-add1-08096aedf05c.jpg" alt="Campus Poster">
+    <br>
+    <audio controls>
+        <source src="The_Eight_Thirty_Gate.mp3" type="audio/mpeg">
+    </audio>
+    <p>Fuelled by canteen coffee. Tested by the 8:30 bell.</p>
+    <div class="footer">Saranathan College of Engineering | Student Innovation Collective</div>
+</body>
+</html>
